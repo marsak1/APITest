@@ -192,7 +192,7 @@ this.ScenarioInitialize(scenarioInfo);
 #line 42
  testRunner.When("User upload his data with id \"1\" and other data is random", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line 43
- testRunner.Then("Response status code is \"400\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+ testRunner.Then("Response status code is \"500\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line 44
  testRunner.And("Error message \"Insert failed, duplicate id\" appears", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden

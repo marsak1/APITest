@@ -40,7 +40,7 @@ Scenario: User can be removed
 @negative
 Scenario: Add new user with existing id
 	When User upload his data with id "1" and other data is random
-	Then Response status code is "400"
+	Then Response status code is "500"
 	And Error message "Insert failed, duplicate id" appears
 
 

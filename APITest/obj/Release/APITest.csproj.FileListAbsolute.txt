@@ -1,0 +1,16 @@
+D:\APITestingRestSharp\APITest\APITest\bin\Release\APITest.dll.config
+D:\APITestingRestSharp\APITest\APITest\bin\Release\APITest.dll
+D:\APITestingRestSharp\APITest\APITest\bin\Release\APITest.pdb
+D:\APITestingRestSharp\APITest\APITest\bin\Release\Newtonsoft.Json.dll
+D:\APITestingRestSharp\APITest\APITest\bin\Release\nunit.framework.dll
+D:\APITestingRestSharp\APITest\APITest\bin\Release\RestSharp.dll
+D:\APITestingRestSharp\APITest\APITest\bin\Release\System.ValueTuple.dll
+D:\APITestingRestSharp\APITest\APITest\bin\Release\TechTalk.SpecFlow.dll
+D:\APITestingRestSharp\APITest\APITest\bin\Release\Newtonsoft.Json.xml
+D:\APITestingRestSharp\APITest\APITest\bin\Release\nunit.framework.pdb
+D:\APITestingRestSharp\APITest\APITest\bin\Release\nunit.framework.xml
+D:\APITestingRestSharp\APITest\APITest\bin\Release\RestSharp.xml
+D:\APITestingRestSharp\APITest\APITest\obj\Release\APITest.csproj.CoreCompileInputs.cache
+D:\APITestingRestSharp\APITest\APITest\obj\Release\APITest.csproj.CopyComplete
+D:\APITestingRestSharp\APITest\APITest\obj\Release\APITest.dll
+D:\APITestingRestSharp\APITest\APITest\obj\Release\APITest.pdb
